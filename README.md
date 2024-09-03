@@ -30,6 +30,6 @@ Người dùng 'Sơn_1' đã đánh giá cho 21 khách sạn
 
 Dựa trên những người có đánh giá tương tự về các khách sạn và đề xuất những sự quan tâm của những người dùng đó cho 'Sơn_1'
 <p align="center">
-  <img src="demo/collaborative/user_rate_hotel.png" width=500><br/>
+  <img src="demo/collaborative/rc_user_based.png" width=500><br/>
   <i>Đề xuất dựa trên EstimateScore cao</i>
 </p>
