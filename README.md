@@ -6,7 +6,7 @@ Agoda Recommender System là một hệ thống đề xuất giúp người dùn
 ## Đề xuất khách sạn
 ### Content-Based
 <p align="center">
-  <img src="demo/content_based/choose_hotel.png" width=800><br/>
+  <img src="demo/content_based/choose_hotel.png" width=500><br/>
   <i>English</i>
 </p>
 ### Collaborative Filtering
