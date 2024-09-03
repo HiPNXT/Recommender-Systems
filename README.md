@@ -33,3 +33,12 @@ Dựa trên những người có đánh giá tương tự về các khách sạn
   <img src="demo/collaborative/rc_user_based.png" width=500><br/>
   <i>Đề xuất dựa trên EstimateScore cao</i>
 </p>
+
+## Yêu cầu
+* python 3.11
+* spark 3.5.1
+* JDK 11
+* underthesea
+* langdetect
+* scikit-learn
+* gensim
