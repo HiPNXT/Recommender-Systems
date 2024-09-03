@@ -20,4 +20,5 @@ Ví dụ khi chọn 1 khách sạn, giả sử chọn 'Khách sạn Mường Tha
   <img src="demo/content_based/show_re_2.png" width=500><br/>
   <i>Thông tin chi tiết, địa chỉ của khách sạn được đề xuất</i>
 </p>
+
 ### Collaborative Filtering
