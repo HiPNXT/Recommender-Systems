@@ -38,7 +38,8 @@ Dựa trên những người có đánh giá tương tự về các khách sạn
 * python 3.11
 * spark 3.5.1
 * JDK 11
+* wordcloud
+* scikit-learn
 * underthesea
 * langdetect
-* scikit-learn
 * gensim
